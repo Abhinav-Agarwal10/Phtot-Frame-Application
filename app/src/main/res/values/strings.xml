@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhotoFrame</string>
+    <string name="photo_frame">Photo Frame</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="main_content">Main Content</string>
+</resources>
